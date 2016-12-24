@@ -1,4 +1,5 @@
 FROM httpd:2.4.23
+MAINTAINER Genadi Postrilko <genadipost@gmail.com>
 
 RUN apt-get -y update \
         && \
