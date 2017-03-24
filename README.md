@@ -1,6 +1,6 @@
 # dockerized-docs-rundeck
 
-# What is it?#
+# What is it?
 Dockerzied Rundeck documentation for offline use.
 
 # Image description #
